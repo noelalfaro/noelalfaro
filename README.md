@@ -9,6 +9,6 @@ A Latino Software Developer based in Chicago, with a passion for Technology & De
 🌱 I’m currently learning Next.JS 13 and improving my skills as an Software Developer. <br>
 🔭 Over the next five years, I'm determined to become a full-stack software developer, leveraging my skills, experiences, and passion for web development. I'm eager to contribute to building products that enhance our connection to information and create meaningful user experiences. <br>
 🤝 I’m currently looking for Junior Software Developer positions. <br> 
-⚡️ Fun fact - I have over 80 hours played as Junkrat on Overwatch 2 
+⚡️ Fun fact - I have over 80 hours played as Junkrat on Overwatch 2 <br>
 📫 How to reach me: noelalfaro.dev@gmail.com
 
