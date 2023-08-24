@@ -1,4 +1,4 @@
-# Hi there, I'm Noel. 👋🏼 👨🏽‍💻 A Latino Software Developer based in Chicago, with a passion for Technology & Design.
+# Hi there, I'm Noel. 👋🏼 👨🏽‍💻 <br> A Latino Software Developer based in Chicago, with a passion for Technology & Design.
 
 ### About Me:
 🎓 Bachelor's of Science in Computer Science & Minor in Interaction Design from Northeastern Illinois University<br>
