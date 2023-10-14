@@ -1,4 +1,4 @@
-# Hi there, I'm Noel. 👋🏼 👨🏽‍💻 <br> 
+# Hi there, I'm Noel. 👋🏼 👨🏽‍💻
 ### A Latino Software Developer based in Chicago, with a passion for Technology & Design.
 
 #### About Me:
