@@ -1,7 +1,7 @@
-`# Hi there, I'm Noel. 👋🏼 👨🏽‍💻
-`### A Latino Software Developer based in Chicago, with a passion for Technology & Design.
+# Hi there, I'm Noel. 👋🏼 👨🏽‍💻
+### A Latino Software Developer based in Chicago, with a passion for Technology & Design.
 
-`#### About Me:
+#### About Me:
 🎓 Bachelor's of Science in Computer Science & Minor in Interaction Design from Northeastern Illinois University<br>
 🌱 I’m currently learning Next.JS 13 & using app router. <br>
 🔭 Over the next five years, I'm determined to become a full-stack software developer, leveraging my skills, experiences, and passion for web development. I'm eager to contribute to building products that enhance our connection to information and create meaningful user experiences. <br>
