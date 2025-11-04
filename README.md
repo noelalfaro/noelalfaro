@@ -1,12 +1,29 @@
-# Hi there, I'm Noel. 👋🏼 👨🏽‍💻
-### A Latino Software Developer based in Chicago, with a passion for Technology & Design.
+# Hi there, I'm Noel 👋🏼  
+### Software Developer @ WEX Inc | React, Next.js, Node.js, .NET | UX-Driven Engineer  
 
-#### About Me:
-🎓 Bachelor's of Science in Computer Science & Minor in Interaction Design from Northeastern Illinois University<br>
-🌱 I’m currently diving deep into React Server Components with Next.JS, Typescript and Tailwind CSS<br>
-🔭 Over the next five years, I'm determined to become a Full-Stack Software Developer, leveraging my skills, experiences, and passion for web development. I'm eager to contribute to building products that enhance our connection to information and create meaningful user experiences. <br>
-🤝 I’m currently looking for Full Time Software Developer roles. <br> 
-📫 How to reach me: ndalfaro333@gmail.com
+💻 **About Me**  
+I'm a Chicago-based Software Developer passionate about blending **technology and design** to create meaningful digital experiences.  
+Currently, I work on **Benefits Technology** products at **WEX Inc**, where I develop and support full-stack systems that help organizations manage employee benefits at scale.
 
-Make your soul grow, experience becoming.
+🎓 **Education**  
+Bachelor of Science in Computer Science + Minor in Interaction Design  
+*Northeastern Illinois University (2023)*  
 
+🚀 **Now Learning & Building**  
+- Exploring **React Server Components** and **Next.js** for high-performance UIs  
+- Strengthening backend architecture skills with **.NET**, **SQL**, and **ColdFusion**  
+- Diving deeper into performance optimization and component design systems with **TypeScript** and **TailwindCSS**  
+
+🎯 **Career Vision**  
+To become a **creative full-stack engineer** who bridges design and scalability, building products that make complex systems feel intuitive and valuable.  
+
+🧰 **Tech Toolbox (current & recent)**  
+`React` · `Next.js` · `TypeScript` · `Node.js` · `.NET` · `ColdFusion` · `SQL Server` · `AWS` · `TailwindCSS` · `Python`
+
+📫 **Let’s Connect**  
+- Email: **ndalfaro333@gmail.com**  
+- Portfolio: [noelalfaro.dev](https://noelalfaro.dev)  
+- LinkedIn: [linkedin.com/in/noelalfaro](https://linkedin.com/in/noelalfaro)  
+- GitHub: [github.com/noelalfaro](https://github.com/noelalfaro)  
+
+> _“Make your soul grow. Experience becoming.”_ 🌱
