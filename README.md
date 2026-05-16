@@ -1,5 +1,3 @@
-**Noel Alfaro**
-
 Software developer at WEX, building benefits tech.
 
 Currently working on: [Cicero](https://github.com/noelalfaro/cicero) — an NBA player investment simulator. 
