@@ -4,4 +4,4 @@ Currently working on: [Cicero](https://github.com/noelalfaro/cicero) — an NBA 
 
 `React` · `Next.js` · `TypeScript` · `Node.js` · `.NET` · `TailwindCSS`
 
-> *"Make your soul grow. Experience becoming."* 🌱
+> *"Make your soul grow. Experience becoming."*
